@@ -5,8 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=3ECF8E&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Alvaro+Naufal+Saksono!;Fullstack+Developer+💻;Informatics+Student+🎓;MTCNA+Certified+🌐)](https://git.io/typing-svg)
 
   <br>
-  
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="180" alt="Coding Animation">
 </div>
 
 # 💫 About Me:
