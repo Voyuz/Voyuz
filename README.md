@@ -21,16 +21,10 @@
 ![](https://streak-stats.demolab.com/?user=Voyuz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Voyuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Voyuz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Voyuz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Voyuz&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Voyuz&color=007BFF&style=flat)](https://github.com/Voyuz)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
