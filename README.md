@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=3ECF8E&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Alvaro+Naufal+Saksono!;Fullstack+Developer;Informatics+Student;MTCNA+Certified)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=007BFF&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Alvaro+Naufal+Saksono!;Full+Stack+Developer;Informatics+Student)](https://git.io/typing-svg)
 
   <br>
 </div>
 
 # 💫 About Me:
-🔭 **I'm currently working on** <br>architecting robust enterprise solutions! I'm building upon my track record of migrating core systems—like AHM Phase 5 and Astra Polytechnic's SIA—using **Java, Spring Boot, and Next.js**. <br><br> 👯 **I'm looking to collaborate on** <br>ambitious end-to-end fullstack projects (Web & Mobile). Let's build something impactful using **React Native, Next.js**, and complex relational databases. <br><br> 🤝 **I'm looking for help with** <br>diving deeper into advanced cloud architectures and connecting with tech innovators in the **Manufacturing & Smart Factory IT** sectors. <br><br> 🌱 **I'm currently learning** <br>advanced **PostgreSQL** optimization, scalable system architecture, and modern API development to craft seamless digital experiences. <br><br> 💬 **Ask me about** <br>Fullstack Development (C#, Laravel, Next.js, React Native), Desktop Apps (Java, C), or how to lead a tech team through a tight deadline! <br><br> ⚡ **Fun fact** <br>From fixing physical engines to debugging software engines! Before coding logic games like *WaterSort* or migrating corporate databases, I was a certified **Light Vehicle Technician** and worked as an auto mechanic. 🚗💻
+🔭 **I'm currently working on** <br>architecting robust enterprise solutions! I'm building upon my track record of migrating core using **Java, Spring Boot, and Next.js**. <br><br> 👯 **I'm looking to collaborate on** <br>ambitious end-to-end fullstack projects (Web & Mobile). Let's build something impactful using **React Native, Next.js**, and complex relational databases. <br><br> 🤝 **I'm looking for help with** <br>diving deeper into advanced cloud architectures and connecting with tech innovators in the **Manufacturing & Smart Factory IT** sectors. <br><br> 🌱 **I'm currently learning** <br>advanced **PostgreSQL** optimization, scalable system architecture, and modern API development to craft seamless digital experiences. <br><br> 💬 **Ask me about** <br>Fullstack Development (C#, Laravel, Next.js, React Native), Desktop Apps (Java, C), or how to lead a tech team through a tight deadline! <br><br> ⚡ **Fun fact** <br>From fixing physical engines to debugging software engines! Before coding logic games like *WaterSort* or migrating corporate databases, I was a certified **Light Vehicle Technician** and worked as an auto mechanic. 🚗💻
 
 
 ## 🌐 Socials:
